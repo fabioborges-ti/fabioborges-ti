@@ -1,5 +1,4 @@
 ## Fábio Nascimento
-### IT Developer 
 
 <div>
   <a href="https://github.com/rafaballerini">

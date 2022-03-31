@@ -5,6 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabioborges.ti@gmail.com-A7A284?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioborges.ti@gmail.com)](mailto:fabioborges.ti@gmail.com)
 
 - 🏠 Sou natural do Rio de Janeiro, Brasil;
-- 💼 Atualmente trabalho na [TAG IMF - Registradora](https://taginfraestrutura.com.br/);
+- 💼 Atualmente trabalho na [Thera Solutions](http://www.thera.com.br//);
 - 💻 Estou sempre desenvolvendo coisas em .NET Core, Node, JavaScript e Typescript;
 - 🚀 O aprendizado é contínuo e sempre haverá um próximo nível!

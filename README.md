@@ -6,5 +6,5 @@
 
 - 🏠 Sou natural do Rio de Janeiro, Brasil;
 - 💼 Atualmente trabalho na [Thera Solutions](http://www.thera.com.br//);
-- 💻 Estou sempre desenvolvendo coisas em .NET Core, Node, JavaScript e Typescript;
+- 💻 Estudando NodeJS, JavaScript e Typescript;
 - 🚀 O aprendizado é contínuo e sempre haverá um próximo nível!

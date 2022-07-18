@@ -7,5 +7,3 @@
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Data Structures
 - 💬 &nbsp;Ask me about anything related to .NET Core
-- 📫 &nbsp;How to reach me: [@fabioborges.ti]
-- 👨‍💻 &nbsp;Read more about my projects at [linkedin.com]([https://www.linkedin.com/in/fabioborges-ti])

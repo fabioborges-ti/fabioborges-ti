@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Thera Solutions](http://www.thera.com.br/)
 
-- 🌱 I’m currently learning **Data Structures, Big O Notation**
+- 🌱 I’m currently learning **Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fabioborges-ti](https://github.com/fabioborges-ti)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Thera Solutions](http://www.thera.com.br/)
+- 🔭 I’m currently working on [Levva](http://www.levva.io/)
 
 - 🌱 I’m currently learning **Data Structures, Big O Notation**
 

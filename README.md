@@ -34,7 +34,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
 
-- 💬 Ask me about **NET Core, Clean Code, Clean Archicteture, Design Pattern, Solid, Unit Test**
+- 💬 Ask me about **NET Core, Clean Code, Clean Archicteture and Microservices**
 
 - 📫 Feel free to reach me out **fabioborges.ti@gmail.com**
 <!--Intro end-->

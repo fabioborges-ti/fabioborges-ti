@@ -5,13 +5,11 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -19,7 +17,6 @@
     <summary><h2 style="display: inline-block">Um breve resumo</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 Atualmente estou trabalhando em **NET Core, Postgres, Redis, RabbitMQ, AWS**
@@ -33,23 +30,19 @@
 - 📫 Sinta-se à vontade para entrar em contato comigo **fabioborges.ti@gmail.com**
 <!--Intro end-->
 
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioborges-ti&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="fabioborges-ti" />
-</p>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologias Que Eu Conheço👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,css,docker,bitbucket,elasticsearch,git,github,gitlab,html,js,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nodejs,npm,postgres,postman,py,rabbitmq,redis,sqlite,sequelize,ts,visualstudio,vscode,vue,yarn&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

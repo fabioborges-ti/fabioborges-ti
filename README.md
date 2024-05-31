@@ -33,20 +33,9 @@
 - 📫 Sinta-se à vontade para entrar em contato comigo **fabioborges.ti@gmail.com**
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fabioborges-ti&theme=dark&show_icons=true&count_private=true" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioborges-ti&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="fabioborges-ti" />
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="left">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioborges-ti&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="fabioborges-ti" />
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

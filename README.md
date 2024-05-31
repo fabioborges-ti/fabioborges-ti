@@ -22,17 +22,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **NET Core, Postgres, Redis, RabbitMQ, AWS**
+- 🔭 Atualmente estou trabalhando em **NET Core, Postgres, Redis, RabbitMQ, AWS**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ Tenho grande interesse em computação em nuvem. Então, estou aprendendo **AWS**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **Python**
+- 📝 Eu regularmente escrevo artigos no [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
+- 💬 Pergunte-me sobre **NET Core, Clean Code, Clean Archicteture and Microservices**
 
-- 💬 Ask me about **NET Core, Clean Code, Clean Archicteture and Microservices**
-
-- 📫 Feel free to reach me out **fabioborges.ti@gmail.com**
+- 📫 Sinta-se à vontade para entrar em contato comigo **fabioborges.ti@gmail.com**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->

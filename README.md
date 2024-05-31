@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **Python**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **Python**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
 

@@ -28,7 +28,7 @@
 
 - 📝 Eu regularmente escrevo artigos no [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
 
-- 💬 Pergunte-me sobre **NET Core, Clean Code, Clean Archicteture and Microservices**
+- 💬 Pergunte-me sobre **NET Core, Clean Code, Clean Archicteture e Microservices**
 
 - 📫 Sinta-se à vontade para entrar em contato comigo **fabioborges.ti@gmail.com**
 <!--Intro end-->

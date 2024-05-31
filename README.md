@@ -82,10 +82,9 @@
 </p>
 
 <!--profile visit count-->
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=fabioborges-ti&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
-</div>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=fabioborges-ti&label=Profile%20Views&icon=3&pretty=false" />
+</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

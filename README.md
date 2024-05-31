@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **Python**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fabioborges-ti/)
 
@@ -45,10 +45,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fabioborges-ti&theme=dark&show_icons=true&count_private=true" />
 </td>
 <td width="50%" align="center">
   <img  align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fabioborges-ti&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -66,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,css,docker,bitbucket,elasticsearch,git,github,gitlab,html,js,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nodejs,npm,postgres,postman,py,rabbitmq,redis,sqlite,sequelize,ts,visualstudio,vscode,vue,yarn&perline=14" />
   </a>
 </p>
 

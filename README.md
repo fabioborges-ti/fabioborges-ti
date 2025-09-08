@@ -56,10 +56,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fabioborges-ti/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fabioborges-ti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/fabioborges-ti?trk=profile-badge">Fábio Nascimento</a></div>
-
-
               
 ----------------------------------------------------------------------
 Last Edited on: 31/05/2024
